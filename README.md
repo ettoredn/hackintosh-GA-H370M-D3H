@@ -12,4 +12,4 @@ TODO
 
 ## Notes
 
-TODO
+config.plist checker: https://opencore.slowgeek.com/
