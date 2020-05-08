@@ -1,4 +1,4 @@
-# Gigabyte H370M D3H OpenCore EFI
+# EFI folder for Gigabyte H370M D3H
 
 - macOS 10.15 Catalina
 - GPU model
