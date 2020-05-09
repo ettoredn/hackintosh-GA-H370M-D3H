@@ -9,7 +9,7 @@
 
 ## Bios Settings
 
-* Disable CSM (requires GOP-enabled GPU)
+* Disable CSM (requires GPU with [GOP](https://uefi.org/sites/default/files/resources/UPFS11_P4_UEFI_GOP_AMD.pdf))
 
 
 ## References
