@@ -583,6 +583,20 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>modGRUBShell.efi</string>
+				<key>Name</key>
+				<string>modGRUBShell.efi</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Arguments</key>
+				<string></string>
+				<key>Path</key>
+				<string>modGRUBShell.efi</string>
+				<key>Auxiliary</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>OpenShell.efi</string>
 				<key>Name</key>
 				<string>OpenShell.efi</string>
@@ -747,7 +761,6 @@
 		<array>
 			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
-			<string>modGRUBShell.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
