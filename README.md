@@ -8,7 +8,7 @@
 - Fenvi FV-HB1200
 - macOS 10.15 Catalina
 
-## UEFI Settings
+## UEFI Firmware Settings
 * Disable CSM (requires GPU with [GOP](https://uefi.org/sites/default/files/resources/UPFS11_P4_UEFI_GOP_AMD.pdf)). Sapphire Nitro+ BIOS switch must be set to _quiet_, that is towards the back of the chassis
 * Disable VT-d, FastBoot, SGX, PTT
 * Enable Above 4G Decoding, USB XHCI
