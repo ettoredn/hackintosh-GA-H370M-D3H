@@ -44,7 +44,7 @@
 - SMBus
 - CFG Lock [disabled via modGRUBshell.efi](https://dortania.github.io/OpenCore-Desktop-Guide/extras/msr-lock.html)
 
-# Not Working
+## Not Working ⛔
 - Bluetooth audio devices, both mic and audio issues. Removing AppleALC makes them work though.
 
 ## References
