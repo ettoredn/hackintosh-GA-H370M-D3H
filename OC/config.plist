@@ -598,6 +598,8 @@
 			<integer>2147483650</integer>
 			<key>Target</key>
 			<integer>83</integer>
+			<key>ApplePanic</key>
+			<true/>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -697,7 +699,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 -dbgenhdbg -liludbgall</string>
+				<string>-v debug=0x100 keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>dwIAAA==</data>
 				<key>prev-lang:kbd</key>
