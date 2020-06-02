@@ -41,6 +41,10 @@
 ## Not Working ⛔
 - Bluetooth audio devices, both mic and audio issues. Removing AppleALC makes them work though.
 
+## Notes
+- Plugging a mouse or keyboard into a USB 3.0 port could block boot (before USB map)
+- Plugging the EFI USB drive into USB 3.0 port may result in boot issues (before USB map?)
+
 ## References
 * [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
 * [OpenCore configuration checker](https://opencore.slowgeek.com/)
