@@ -24,6 +24,7 @@
 | Back 3.0 Gen1 Type A  |     3.0    |   ✓    |
 | Back 3.0 Gen2 Type A  |     3.0    |   ✓    |
 | Back 3.0 Gen2 Type C  |     3.0    |   -    |
+| internal F_USB2 (BT)  |     2.0    |   ✓    |
 
 
 
