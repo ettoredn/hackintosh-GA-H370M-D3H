@@ -23,16 +23,29 @@
 - Back panel 3.0 Gen 2 Type A mapped to 3.0 Type A
 - Back panel 3.0 Gen 2 Type C *not tested*
 
+|     Physical Port     | macOS Port | Tested |
+| --------------------- | -----------| ------ |
+| Front 3.0 Gen1 Type A | 2.0 & 3.0  |   ✓    |
+| Back 2.0 Type A       |     2.0    |   ✓    |
+| Back 3.0 Gen1 Type A  |     3.0    |   ✓    |
+| Back 3.0 Gen2 Type A  |     3.0    |   ✓    |
+| Back 3.0 Gen2 Type C  |     3.0    |   -    |
+
+
+
 ## Working 🏆
 - USB ports
 - NVRAM
-- Audio: both mic and line out on both the front and back panel
-- sleep/wake
+- Audio: both mic and line out at both the front and back panel
+- Sleep / Wake
 - WiFi / Bluetooth: handoff not tested
 - Dual monitor: no black screen issue at login, no sleep/wake issues
 - Power Management settings
 - SMBus
 - CFG Lock [disabled via modGRUBshell.efi](https://dortania.github.io/OpenCore-Desktop-Guide/extras/msr-lock.html)
+
+# Not Working
+- Bluetooth audio devices, both mic and audio issues. Removing AppleALC makes them work though.
 
 ## References
 * [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
