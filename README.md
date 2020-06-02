@@ -17,12 +17,6 @@
 - Sytem Integrity Protection disabled (value obtained from recovery csrutil)
 
 ## USB Map
-- Front panel 3.0 Gen 1 mapped to both 2.0 Type A and 3.0 Type A
-- Back panel 2.0 mapped to 2.0 Type A
-- Back panel 3.0 Gen 1 mapped to 3.0 Type A
-- Back panel 3.0 Gen 2 Type A mapped to 3.0 Type A
-- Back panel 3.0 Gen 2 Type C *not tested*
-
 |     Physical Port     | macOS Port | Tested |
 | --------------------- | -----------| ------ |
 | Front 3.0 Gen1 Type A | 2.0 & 3.0  |   ✓    |
