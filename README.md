@@ -37,7 +37,7 @@
 - Dual monitor: no black screen issue at login, no sleep/wake issues
 - Power Management settings
 - SMBus
-- CFG Lock [disabled via modGRUBshell.efi](https://dortania.github.io/OpenCore-Desktop-Guide/extras/msr-lock.html)
+- CFG Lock [disabled via modGRUBshell.efi](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html)
 
 ## Not Working ⛔
 - Bluetooth audio devices, both mic and audio issues. Removing AppleALC makes them work though.
@@ -47,6 +47,6 @@
 - Plugging the EFI USB drive into USB 3.0 port may result in boot issues (before USB map?)
 
 ## References
-* [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
+* [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore configuration checker](https://opencore.slowgeek.com/)
 
